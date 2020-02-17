@@ -1,0 +1,11 @@
+/Users/Hi/Development/C#/Work-with-strings/bin/Debug/netcoreapp3.1/Work-with-strings
+/Users/Hi/Development/C#/Work-with-strings/bin/Debug/netcoreapp3.1/Work-with-strings.deps.json
+/Users/Hi/Development/C#/Work-with-strings/bin/Debug/netcoreapp3.1/Work-with-strings.runtimeconfig.json
+/Users/Hi/Development/C#/Work-with-strings/bin/Debug/netcoreapp3.1/Work-with-strings.runtimeconfig.dev.json
+/Users/Hi/Development/C#/Work-with-strings/bin/Debug/netcoreapp3.1/Work-with-strings.dll
+/Users/Hi/Development/C#/Work-with-strings/bin/Debug/netcoreapp3.1/Work-with-strings.pdb
+/Users/Hi/Development/C#/Work-with-strings/obj/Debug/netcoreapp3.1/Work-with-strings.csprojAssemblyReference.cache
+/Users/Hi/Development/C#/Work-with-strings/obj/Debug/netcoreapp3.1/Work-with-strings.AssemblyInfoInputs.cache
+/Users/Hi/Development/C#/Work-with-strings/obj/Debug/netcoreapp3.1/Work-with-strings.AssemblyInfo.cs
+/Users/Hi/Development/C#/Work-with-strings/obj/Debug/netcoreapp3.1/Work-with-strings.dll
+/Users/Hi/Development/C#/Work-with-strings/obj/Debug/netcoreapp3.1/Work-with-strings.pdb
